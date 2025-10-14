@@ -1,1 +1,1 @@
-# Mechanics-machine-design-based-Python-applications
+mechanics | machine-design  
